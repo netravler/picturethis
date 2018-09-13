@@ -1,0 +1,18 @@
+C:\Documents and Settings\pheintz\Local Settings\Application Data\Temporary Projects\picturethis\bin\Debug\picturethis.exe
+C:\Documents and Settings\pheintz\Local Settings\Application Data\Temporary Projects\picturethis\bin\Debug\picturethis.pdb
+C:\Documents and Settings\pheintz\Local Settings\Application Data\Temporary Projects\picturethis\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\pheintz\Local Settings\Application Data\Temporary Projects\picturethis\obj\Debug\picturethis.Form1.resources
+C:\Documents and Settings\pheintz\Local Settings\Application Data\Temporary Projects\picturethis\obj\Debug\picturethis.Properties.Resources.resources
+C:\Documents and Settings\pheintz\Local Settings\Application Data\Temporary Projects\picturethis\obj\Debug\picturethis.csproj.GenerateResource.Cache
+C:\Documents and Settings\pheintz\Local Settings\Application Data\Temporary Projects\picturethis\obj\Debug\picturethis.exe
+C:\Documents and Settings\pheintz\Local Settings\Application Data\Temporary Projects\picturethis\obj\Debug\picturethis.pdb
+C:\Documents and Settings\pheintz\My Documents\Visual Studio 2008\Projects\picturethis\picturethis\obj\Debug\picturethis.exe
+C:\Documents and Settings\pheintz\My Documents\Visual Studio 2008\Projects\picturethis\picturethis\obj\Debug\picturethis.pdb
+C:\Documents and Settings\pheintz\My Documents\Visual Studio 2008\Projects\picturethis\picturethis\bin\Debug\picturethis.exe
+C:\Documents and Settings\pheintz\My Documents\Visual Studio 2008\Projects\picturethis\picturethis\bin\Debug\picturethis.pdb
+C:\Documents and Settings\pheintz\My Documents\Visual Studio 2008\Projects\picturethis\picturethis\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\pheintz\My Documents\Visual Studio 2008\Projects\picturethis\picturethis\obj\Debug\picturethis.Form1.resources
+C:\Documents and Settings\pheintz\My Documents\Visual Studio 2008\Projects\picturethis\picturethis\obj\Debug\picturethis.Properties.Resources.resources
+C:\Documents and Settings\pheintz\My Documents\Visual Studio 2008\Projects\picturethis\picturethis\obj\Debug\picturethis.csproj.GenerateResource.Cache
+C:\Users\pheintz\Visual Studio 2008\Projects\picturethis\picturethis\obj\Debug\picturethis.exe
+C:\Users\pheintz\Visual Studio 2008\Projects\picturethis\picturethis\obj\Debug\picturethis.pdb

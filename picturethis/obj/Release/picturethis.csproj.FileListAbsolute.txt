@@ -1,0 +1,8 @@
+C:\Documents and Settings\pheintz\Local Settings\Application Data\Temporary Projects\picturethis\bin\Release\picturethis.exe
+C:\Documents and Settings\pheintz\Local Settings\Application Data\Temporary Projects\picturethis\bin\Release\picturethis.pdb
+C:\Documents and Settings\pheintz\Local Settings\Application Data\Temporary Projects\picturethis\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\pheintz\Local Settings\Application Data\Temporary Projects\picturethis\obj\Release\picturethis.Form1.resources
+C:\Documents and Settings\pheintz\Local Settings\Application Data\Temporary Projects\picturethis\obj\Release\picturethis.Properties.Resources.resources
+C:\Documents and Settings\pheintz\Local Settings\Application Data\Temporary Projects\picturethis\obj\Release\picturethis.csproj.GenerateResource.Cache
+C:\Documents and Settings\pheintz\Local Settings\Application Data\Temporary Projects\picturethis\obj\Release\picturethis.exe
+C:\Documents and Settings\pheintz\Local Settings\Application Data\Temporary Projects\picturethis\obj\Release\picturethis.pdb
